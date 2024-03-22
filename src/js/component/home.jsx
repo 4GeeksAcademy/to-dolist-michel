@@ -42,7 +42,7 @@ const Home = () => {
                     </li>
                 ))}
             </ul>
-			<span class="bottom-text">13 items left</span>
+			<div>{todos.length} tasks left </div>
         </div>
     );
 }

@@ -29,6 +29,11 @@ ul{
 h1{
     text-align: center;
     color: pink;
+
+}
+input{
+    width:100%;
+    border: none;
 }
 
 .bottom-text{
